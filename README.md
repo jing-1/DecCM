@@ -26,7 +26,7 @@ This is our implementation of DebCM for recommendation systems associated with:
 - video_popularity_test.npy: Inversed-popularity weight of videos associated to their matched music in test set.
 - user_prior_mean.py: Average of music genres distributions of uploaders in the training set.
 
-we provide a toy dataset at [BaiduPan](https://pan.baidu.com/s/1tdN7DpXpsB4ErrwoEL8vAQ)(code: mvkd).
+we provide a toy dataset at [BaiduPan](https://pan.baidu.com/s/1tdN7DpXpsB4ErrwoEL8vAQ)(code: mvkd) or [GoogleDrive](https://drive.google.com/drive/folders/1XPeESNANcHsGq87gbSpU-DNZEr0pcpSm?usp=sharing).
 
 ### **If you find our codes helpful, please kindly cite the following paper. Thanks!**
 	@article{debcm,
