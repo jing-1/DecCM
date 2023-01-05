@@ -1,7 +1,7 @@
-# DebCM: Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation
+# DecCM: Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation
 This is our implementation of DebCM for recommendation systems associated with:
 
->**DebCM: Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation,**  
+>**DecCM: Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation,**  
 >Jing Yi and Zhenzhong Chen  
  
 ## Environment Requirement
@@ -28,8 +28,8 @@ This is our implementation of DebCM for recommendation systems associated with:
 
 
 ### **If you find our codes helpful, please kindly cite the following paper. Thanks!**
-	@article{debcm,
-	  title={Multi-modal Variational Graph Auto-encoder for Recommendation Systems},
+	@article{deccm,
+	  title={DecCM: Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation},
 	  author={Yi, Jing and Chen, Zhenzhong},
 	  year={2022},
 	}
