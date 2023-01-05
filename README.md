@@ -1,5 +1,5 @@
 # DecCM: Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation
-This is our implementation of DebCM for recommendation systems associated with:
+This is our implementation of DecCM for recommendation systems associated with:
 
 >**DecCM: Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation,**  
 >Jing Yi and Zhenzhong Chen  
